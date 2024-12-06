@@ -49,6 +49,7 @@ The following features are constructs that are defined only at the conversation-
    variance_in_DD
    within_person_discursive_range
    turn_taking_features
+   lsm
 
 Conversation-Level Aggregates
 +++++++++++++++++++++++++++++++++++
